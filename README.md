@@ -8,7 +8,7 @@ Il avait créé tout d'abord un modèle basé sur la régression linéaire simpl
 A cette fin, il avait fusionné les données du PNB par habitant du FMI, Fonds Monétaire Internationale avec ceux de l’indice du mieux vivre de l’OCDE,  Organisation de coopération économique et de développement.
 Cet indice a été créé suite au rapport de la commission Stiglitz-Sen-Fitouss afin de mieux appréhender la richesse d’un pays autre que celui de la production économique
 
-En ce qui me concerne, je me suis basé sur les données de 2017 et ai simplement utilisé les données de l’OCDE (revenu hors revenu du capital et l’indice de satisfaction).
+En ce qui me concerne, j'ai simplement utilisé les données de l’OCDE (revenu hors revenu du capital et l’indice de satisfaction).
 
 Le but est un simple exercice de manipulation de données avec python et les dépendances, PANDAS, NUMPY, SCIKITLEARN et MATPLOTLIB.
   
