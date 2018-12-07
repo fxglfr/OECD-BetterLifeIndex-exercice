@@ -20,4 +20,4 @@ Voici les 5 étapes :
         4- modélisation part la méthode de régression linéaire avec Scikitlearn
         5- prédiction de l’indice de satisfaction de Chypre avec le revenu moyen en 2017 
 
-J’espère dans un deuxième temps appliqué un modèle polynomiale et au final aboutir à une étude de modèle logistique.
+J’espère dans un deuxième temps appliquer un modèle polynomiale et à la fin, aboutir à une étude de modèle logistique.
